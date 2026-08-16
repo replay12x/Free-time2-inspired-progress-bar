@@ -1,2 +1,2 @@
-# Free-time2-inspired-progress-bar
+# Free progress bar
 A free qb time2 roleplay inspired progress bar!
